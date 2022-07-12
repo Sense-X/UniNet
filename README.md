@@ -1,6 +1,7 @@
 ## Pytorch implementation of [UniNet (ECCV 2022)](https://arxiv.org/)
 
 ![tenser](assets/backbone.png)
+![performance](assets/performance.png)
 
 This repo is the offcial implementation of the paper [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://arxiv.org/)
 
