@@ -21,6 +21,11 @@ This repo is the offcial implementation of the paper [UniNet: Unified Architectu
 The code is tested with ```torch==1.11``` and ```timm==0.5.4```.
 
 
+### Availble models
+|Models | Params (M) | FLOPs (G) | Pretrain Epochs | Top-1 Acc. | ckpt |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| UniNet-B1 | 11.5 | 1.1 | 300 | 81.0 | [ckpt](https://drive.google.com/drive/folders/14gp-Vtmtd3MNNlrmYtF5FcUi0rm4CaGi?usp=share_link)|
+
 ### Run experiments
 
 Currently, we supporting running experiments with slurm.
