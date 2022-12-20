@@ -15,6 +15,8 @@ This repo is the offcial implementation of the paper [UniNet: Unified Architectu
 ```
 
 ### Update
+20/12/2022 Update pretrained models.
+
 25/10/2022 Update the source code.
 
 #### Environment
